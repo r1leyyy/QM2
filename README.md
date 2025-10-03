@@ -1,1 +1,1 @@
-this is a repository file 
+this is a repository file for qm2
